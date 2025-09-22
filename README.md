@@ -25,7 +25,9 @@ The project was created, enhanced, and debugged using **GitHub Copilot** as part
 
 ## ▶️ How to Run
 1. Clone this repository:
-git clone https://github.com/Jox5710/CRUDalpi.git
+```bash
+git clone : <https://github.com/Jox5710/CRUDalpi.git
+```bash
 cd CRUDalpi
 # User Management API (ASP.NET Core Minimal API)
 
